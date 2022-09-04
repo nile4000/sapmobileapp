@@ -1,7 +1,6 @@
-# sapmobileapp
-Tutorial App for SAP MDK
+### Tutorial App for SAP MDK "sapmobileapp"
 
-## App Start on Android or Apple
+#### App Start on Android or Apple
 1. Download SAP Mobile SAP Mobile Services Client in Play Store
 2. Scan QR-Code below:
 
