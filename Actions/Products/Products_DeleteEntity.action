@@ -1,0 +1,13 @@
+{
+    "Target": {
+        "EntitySet": "Products",
+        "Service": "/MDKapp/Services/SampleServiceV2.service",
+        "ReadLink": "{@odata.readLink}"
+    },
+    "OnSuccess": "/MDKapp/Actions/DeleteEntitySuccessMessage.action",
+    "OnFailure": "/MDKapp/Actions/DeleteEntityFailureMessage.action",
+    "ActionResult": {
+        "_Name": "delete"
+    },
+    "_Type": "Action.Type.ODataService.DeleteEntity"
+}

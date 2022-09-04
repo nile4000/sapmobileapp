@@ -1,0 +1,4 @@
+{
+    "_Type": "Action.Type.Navigation",
+    "PageToOpen": "/MDKapp/Pages/PurchaseOrderItems/PurchaseOrderItems_List.page"
+}
